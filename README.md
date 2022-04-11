@@ -1,6 +1,6 @@
 # Go to any one of the following links:
 
-###        https://edu-viewer.cloudflareaccess.com/
+	[edu-viewer.cloudflareaccess.com](#https://edu-viewer.cloudflareaccess.com/)        
 
 ###        https://w1.edu-viewer.me
 
